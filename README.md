@@ -1,6 +1,6 @@
 # SI-GuidedProject-4645-1626956791
 
-## Fake News Analysis using NLP
+## AI-Based Natural Disaster Intensity Analysis 
 
 ### Team Members(Team Four Feathers)
 
